@@ -1,4 +1,4 @@
-# Malaria Detection Using CNN and Trasnfer Learning
+# Malaria Detection Using CNN and Transfer Learning
 ## Overview
 This project focuses on creating an AI model to classify a given image of a cell and classify if it has been infected with malaria or not. We started with an intially small data set seen in the `training` directory to test our model and see how it performs. 
 The model performed really well since it was using the efficientnet architecture and produced a test data accuracy of 92.53% which is really solid. After I was satisifed with the resuls I decided to train the model
